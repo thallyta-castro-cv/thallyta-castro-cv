@@ -3,7 +3,7 @@
 ##
 
 - 🔭 Hoje eu trabalho com front-end
-- ❤ Sou apaixonada por tecnologis, livros e gatos.
+- ❤ Sou apaixonada por tecnologia, livros e gatos.
 - 🌱 Estudando React e QA
 - 😄 Pronouns: ela/dela
 - 📞 Contato: (22) 99944-0075
