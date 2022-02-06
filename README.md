@@ -2,7 +2,7 @@
 
 ##
 
-- 🔭 Hoje eu trabalho com front-end
+- 🔭 Desenvolvedora Frontend Jr na NTT DATA,
 - ❤ Sou apaixonada por tecnologia, livros e gatos.
 - 🌱 Estudando React e QA
 - 😄 Pronouns: ela/dela
