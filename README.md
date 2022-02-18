@@ -4,7 +4,7 @@
 
 - 🔭 Desenvolvedora Front-end Jr na NTT DATA.
 - ❤ Sou apaixonada por tecnologia, livros e gatos.
-- 🌱 Estudando React e QA
+- 🌱 Estudando Angular
 - 😄 Pronouns: ela/dela
 - 📞 Contato: (22) 99944-0075
 
