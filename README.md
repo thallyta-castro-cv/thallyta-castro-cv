@@ -6,7 +6,7 @@
 - ❤ Sou apaixonada por tecnologia, livros e gatos.
 - 🌱 Estudando Angular
 - 😄 Pronouns: ela/dela
-- 📞 Contato: (22) 99850-3981
+- 📞 Contato: (21) 99850-3981
 
 
 ### 📊 GitHub Analytics
