@@ -2,11 +2,11 @@
 
 ##
 
-- 🔭 Desenvolvedora Front-end Jr na NTT DATA.
+- 🔭 Desenvolvedora Front-end na NTT DATA.
 - ❤ Sou apaixonada por tecnologia, livros e gatos.
 - 🌱 Estudando Angular
 - 😄 Pronouns: ela/dela
-- 📞 Contato: (21) 99850-3981
+- 📞 Contato: (21) 99621-6976
 
 
 ### 📊 GitHub Analytics
