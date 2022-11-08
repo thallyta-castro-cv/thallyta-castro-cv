@@ -4,7 +4,7 @@
 
 - 🔭 Desenvolvedora Front-end na NTT DATA.
 - ❤ Sou apaixonada por tecnologia, livros e gatos.
-- 🌱 Estudando Angular
+- 🌱 Estudando Angular e Java, Rumo ao fullStack
 - 😄 Pronouns: ela/dela
 - 📞 Contato: (21) 99621-6976
 
