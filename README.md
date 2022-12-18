@@ -2,7 +2,7 @@
 
 ##
 
-- 🔭 Desenvolvedora Front-end na NTT DATA.
+- 🔭 Developer na NTT DATA.
 - ❤ Sou apaixonada por tecnologia, livros e gatos.
 - 🌱 Estudando Angular e Java, Rumo ao fullStack
 - 😄 Pronouns: ela/dela
