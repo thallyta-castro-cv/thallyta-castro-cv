@@ -8,17 +8,6 @@
 - 😄 Pronouns: ela/dela
 - 📞 Contato: (21) 99621-6976
 
-
-### 📊 GitHub Analytics
-
-##
-
-
-<div align="center">
-  <a href="https://github.com/thallyta-castro-cv">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thallyta-castro-cv&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thallyta-castro-cv&layout=compact&langs_count=7&theme=radical"/>
-</div>
   
 ### 🏆 Tecnologias
   
