@@ -2,7 +2,7 @@
 
 ##
 
-- 🔭 Developer na NTT DATA.
+- 🔭 Backend Developer at CI&T
 - ❤ Sou apaixonada por tecnologia, livros e gatos.
 - 🌱 Estudando Angular e Java, Rumo ao fullStack
 - 😄 Pronouns: ela/dela
